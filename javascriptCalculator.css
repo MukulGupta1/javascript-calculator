@@ -1,0 +1,69 @@
+#line0{
+    visibility: hidden;
+}
+
+
+#line1{
+    font-size: xx-large;
+}
+
+#line2{
+    font-size: large;
+    color: gray;
+}
+
+.firstButton {
+    display:block;
+    width:6%;
+    margin-left:35%;
+    margin-top:1%;
+    height:45px;
+    float:left;
+}
+
+.nonFirstButton {
+    width:6%;
+    display:block;
+    margin-left:2%;
+    margin-top:1%;
+    height:45px;
+    float:left
+}
+
+.resultDisplay{
+    text-align: right;
+    width: 30%;
+    display: block;
+    margin:auto;
+    margin-top:100px
+}
+
+.firstLongButton {
+    display:block;
+    width:14%;
+    margin-left:35%;
+    margin-top:1%;
+    height:45px;
+    float:left
+}
+
+.nonFirstTallButton {
+    width:6%;
+    display:block;
+    margin-left:2%;
+    margin-top:-4%;
+    height:102px;
+    float:left
+}
+
+.calculatorBody {
+    z-index: -1;
+    position:absolute;
+    border:thin solid darkgray;
+    border-radius: 20px;
+    background: darkseagreen;
+    width: 28.3%;
+    margin-left: 25.5%;
+    height:480px;
+    margin-top:35px
+}
