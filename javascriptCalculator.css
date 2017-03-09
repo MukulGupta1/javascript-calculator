@@ -12,47 +12,48 @@
     color: gray;
 }
 
+.resultDisplay{
+    text-align: right;
+    width: 90%;
+    display: block;
+    margin:auto;
+    margin-top:50px
+}
+
 .firstButton {
     display:block;
-    width:6%;
-    margin-left:35%;
-    margin-top:1%;
+    width:20%;
+    margin-left:5%;
+    margin-top:3%;
     height:45px;
     float:left;
 }
 
 .nonFirstButton {
-    width:6%;
+    width:20%;
     display:block;
-    margin-left:2%;
-    margin-top:1%;
+    margin-left:3%;
+    margin-top:3%;
     height:45px;
-    float:left
+    float:left;
 }
 
-.resultDisplay{
-    text-align: right;
-    width: 30%;
-    display: block;
-    margin:auto;
-    margin-top:100px
-}
 
 .firstLongButton {
     display:block;
-    width:14%;
-    margin-left:35%;
-    margin-top:1%;
+    width:43%;
+    margin-left:5%;
+    margin-top:3%;
     height:45px;
     float:left
 }
 
 .nonFirstTallButton {
-    width:6%;
+    width:20%;
     display:block;
-    margin-left:2%;
-    margin-top:-4%;
-    height:102px;
+    margin-left:3%;
+    margin-top:-45px;
+    height:101px;
     float:left
 }
 
@@ -62,7 +63,7 @@
     border:thin solid darkgray;
     border-radius: 20px;
     background: darkseagreen;
-    width: 28.3%;
+    width: 25%;
     margin-left: 25.5%;
     height:480px;
     margin-top:35px
